@@ -7,9 +7,6 @@ C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bi
 C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Api.pdb
 C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.csproj.AssemblyReference.cache
 C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vinicius\Documents\CleanArchitecture&DDD\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.AssemblyInfoInputs.cache

@@ -1,16 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2URNjngJ8FZfrOUSeG16ADgd5JcMq0jYg2F3dCJ4GjS6mjF8JjxqQJj6QTuZ7+du2EvfL7p6hVgbsgaQSFl5sA==",
+  "dgSpecHash": "cGPoGb7PJX7KmoECo1ag1WHBJ9ig2CR7PSKoi5dvtm5cZk2dZ2JnmVskW42k/jH8N25acSfW5zd0He9AzS5qQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius\\Documents\\CleanArchitecture&DDD\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
-    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\Vinicius\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\Vinicius\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\Vinicius\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Vinicius\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
   ],
   "logs": []
 }
